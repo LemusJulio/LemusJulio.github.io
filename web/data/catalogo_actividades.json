@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Limpiar almacén",
+        "category": "Limpieza",
+        "usageCount": 0,
+        "lastUsedAt": null,
+        "keywords": ["limpiar", "orden", "almacén"]
+    },
+    {
+        "title": "Revisar material recibido",
+        "category": "Inventario",
+        "usageCount": 0,
+        "lastUsedAt": null,
+        "keywords": ["revisar", "material", "recibido", "inventario"]
+    }
+]

@@ -1,0 +1,41 @@
+{
+    "usuarios": [
+        {
+            "nombre": "Carlos",
+            "pin": "$2y$10$kE1HIU6XV8M.Xxc3.u6gCOUq3DRafr6LLWDoJpOtK0O0cTApKh4nS",
+            "rol": "director",
+            "tarifa_por_hora": 25
+        },
+        {
+            "nombre": "Gabriel",
+            "pin": "$2y$10$TSM1KFwk6pnnP6tkKuSZ6O774UByO6fwEcnY9QXpmH50MbpaI.N5O",
+            "rol": "lider",
+            "tarifa_por_hora": 20
+        },
+        {
+            "nombre": "Luis",
+            "pin": "$2y$10$Ip.lxcfYSmfgZRMr7mN8ouPBOk52DP3FxxgrcQUcGSxMi9QFSsZpm",
+            "rol": "almacen",
+            "tarifa_por_hora": 15
+        },
+        {
+            "nombre": "María",
+            "pin": "$2y$10$9LST3uxVY7ikF9aEKX0jd.ErOQ0qk3ku9k1iR4LHygEL1mKUCNdWS",
+            "rol": "almacen",
+            "tarifa_por_hora": 15
+        },
+        {
+            "nombre": "Pedro",
+            "pin": "$2y$10$IRLbzzVmaEoPP9xQ.YE99OYhMRUbek0C4FO4QjQys21K9bjYKTGVa",
+            "rol": "almacen",
+            "tarifa_por_hora": 18
+        },
+        {
+            "nombre": "Juan Carlos",
+            "pin": "$2y$10$O1hHC3mhe0DYjerJoP444.LIWcUmHuBFSHwNKQO8y\/VI1nQfe.YyG",
+            "rol": "almacen",
+            "tarifa_por_hora": 149.99
+        }
+    ],
+    "actividades": []
+}

@@ -1,0 +1,507 @@
+[
+    {
+        "id": "a21640cd5786f50febec8a65",
+        "type": "start",
+        "message": "Pedro inició la actividad \"Limpiar\".",
+        "activityTitle": "Limpiar",
+        "worker": "Pedro",
+        "createdAt": "2026-09-21 19:08:41",
+        "createdAtUnix": 1790010521
+    },
+    {
+        "id": "f5e772b55734cef6284441fb",
+        "type": "pause",
+        "message": "Pedro pausó la actividad \"Limpiar\".",
+        "activityTitle": "Limpiar",
+        "worker": "Pedro",
+        "createdAt": "2026-09-21 19:08:55",
+        "createdAtUnix": 1790010535
+    },
+    {
+        "id": "87ca3ca77349afde2dfe1a95",
+        "type": "resume",
+        "message": "Pedro inició la actividad \"Limpiar\".",
+        "activityTitle": "Limpiar",
+        "worker": "Pedro",
+        "createdAt": "2026-09-21 19:09:00",
+        "createdAtUnix": 1790010540
+    },
+    {
+        "id": "6a0091022ca1753f434ca44e",
+        "type": "stop",
+        "message": "Pedro terminó la actividad \"Limpiar\".",
+        "activityTitle": "Limpiar",
+        "worker": "Pedro",
+        "createdAt": "2026-09-21 21:46:00",
+        "createdAtUnix": 1790019960
+    },
+    {
+        "id": "e66cf15beaff3108fe67f4db",
+        "type": "assignment",
+        "recipient": "Luis",
+        "message": "Se te asignó la actividad \"Lavar\".",
+        "activityTitle": "Lavar",
+        "worker": "Luis",
+        "createdAt": "2026-09-21 22:17:36",
+        "createdAtUnix": 1790021856
+    },
+    {
+        "id": "60219b403dd832f4e4712feb",
+        "type": "assignment",
+        "recipient": "Luis",
+        "message": "Se te asignó la actividad \"Alumbrar mampara\".",
+        "activityTitle": "Alumbrar mampara",
+        "worker": "Luis",
+        "createdAt": "2026-09-21 22:28:31",
+        "createdAtUnix": 1790022511
+    },
+    {
+        "id": "1e030646dd981cc8654ad1d6",
+        "type": "assignment",
+        "recipient": "María",
+        "message": "Se te asignó la actividad \"Archivar los antiguos documentos\".",
+        "activityTitle": "Archivar los antiguos documentos",
+        "worker": "María",
+        "createdAt": "2026-09-21 22:31:54",
+        "createdAtUnix": 1790022714
+    },
+    {
+        "id": "93b988ee32c21c31ef9e274c",
+        "type": "due",
+        "message": "La actividad \"Lavar\" de Luis venció.",
+        "activityTitle": "Lavar",
+        "worker": "Luis",
+        "recipient": "Luis",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 00:33:36",
+        "createdAtUnix": 1790030016
+    },
+    {
+        "id": "6d6ef99ac1185d951fffb1f4",
+        "type": "due",
+        "message": "La actividad \"Alumbrar mampara\" de Luis venció.",
+        "activityTitle": "Alumbrar mampara",
+        "worker": "Luis",
+        "recipient": "Luis",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 00:33:36",
+        "createdAtUnix": 1790030016
+    },
+    {
+        "id": "f3e54e2e21c8227590c04965",
+        "type": "assignment",
+        "recipient": "Juan Carlos",
+        "message": "Se te asignó la actividad \"Bajar cosas\".",
+        "activityTitle": "Bajar cosas",
+        "worker": "Juan Carlos",
+        "createdAt": "2026-09-22 00:35:31",
+        "createdAtUnix": 1790030131
+    },
+    {
+        "id": "f7ada4050f50931fddde9e96",
+        "type": "start",
+        "message": "Juan Carlos inició la actividad \"Bajar cosas\".",
+        "activityTitle": "Bajar cosas",
+        "worker": "Juan Carlos",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 00:36:04",
+        "createdAtUnix": 1790030164
+    },
+    {
+        "id": "af5c73ce7d9c527c0ed3ac2d",
+        "type": "pause",
+        "message": "Juan Carlos pausó la actividad \"Bajar cosas\".",
+        "activityTitle": "Bajar cosas",
+        "worker": "Juan Carlos",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 00:36:14",
+        "createdAtUnix": 1790030174
+    },
+    {
+        "id": "e468ae66e6e01aad5c355525",
+        "type": "stop",
+        "message": "Juan Carlos terminó la actividad \"Bajar cosas\".",
+        "activityTitle": "Bajar cosas",
+        "worker": "Juan Carlos",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 00:36:19",
+        "createdAtUnix": 1790030179
+    },
+    {
+        "id": "085b6d0bba3b5c6e031830c8",
+        "type": "assignment",
+        "recipient": "Pedro",
+        "message": "Se te asignó la actividad \"Haz algo\".",
+        "activityTitle": "Haz algo",
+        "worker": "Pedro",
+        "createdAt": "2026-09-22 18:59:59",
+        "createdAtUnix": 1790096399
+    },
+    {
+        "id": "e793deb9ccc60ace4767ef94",
+        "type": "start",
+        "message": "Pedro inició la actividad \"Haz algo\".",
+        "activityTitle": "Haz algo",
+        "worker": "Pedro",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 19:00:10",
+        "createdAtUnix": 1790096410
+    },
+    {
+        "id": "54728fcb31f095cb0b03c0ca",
+        "type": "pause",
+        "message": "Pedro pausó la actividad \"Haz algo\".",
+        "activityTitle": "Haz algo",
+        "worker": "Pedro",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 19:00:22",
+        "createdAtUnix": 1790096422
+    },
+    {
+        "id": "82a71e9e02d53099f9391fd4",
+        "type": "resume",
+        "message": "Pedro inició la actividad \"Haz algo\".",
+        "activityTitle": "Haz algo",
+        "worker": "Pedro",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 19:00:24",
+        "createdAtUnix": 1790096424
+    },
+    {
+        "id": "717006046c395b78ec3e8699",
+        "type": "pause",
+        "message": "Pedro pausó la actividad \"Haz algo\".",
+        "activityTitle": "Haz algo",
+        "worker": "Pedro",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 19:00:28",
+        "createdAtUnix": 1790096428
+    },
+    {
+        "id": "1eb97eb8062f72344d8e38ef",
+        "type": "resume",
+        "message": "Pedro inició la actividad \"Haz algo\".",
+        "activityTitle": "Haz algo",
+        "worker": "Pedro",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 19:00:38",
+        "createdAtUnix": 1790096438
+    },
+    {
+        "id": "b79c2194cdb03ab0eb404042",
+        "type": "stop",
+        "message": "Pedro terminó la actividad \"Haz algo\".",
+        "activityTitle": "Haz algo",
+        "worker": "Pedro",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 19:00:43",
+        "createdAtUnix": 1790096443
+    },
+    {
+        "id": "d8f77cf76566e66c1b54824a",
+        "type": "assignment",
+        "recipient": "Juan Carlos",
+        "message": "Se te asignó la actividad \"Haz algo\".",
+        "activityTitle": "Haz algo",
+        "worker": "Juan Carlos",
+        "createdAt": "2026-09-22 19:09:41",
+        "createdAtUnix": 1790096981
+    },
+    {
+        "id": "bac4a82c887ae3429a405d61",
+        "type": "start",
+        "message": "Juan Carlos inició la actividad \"Haz algo\".",
+        "activityTitle": "Haz algo",
+        "worker": "Juan Carlos",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 19:09:54",
+        "createdAtUnix": 1790096994
+    },
+    {
+        "id": "b3be7118b67b89f0816434a8",
+        "type": "pause",
+        "message": "Juan Carlos pausó la actividad \"Haz algo\".",
+        "activityTitle": "Haz algo",
+        "worker": "Juan Carlos",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 19:14:38",
+        "createdAtUnix": 1790097278
+    },
+    {
+        "id": "c6e30f0b07c03fc51e629a85",
+        "type": "resume",
+        "message": "Juan Carlos inició la actividad \"Haz algo\".",
+        "activityTitle": "Haz algo",
+        "worker": "Juan Carlos",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 19:14:52",
+        "createdAtUnix": 1790097292
+    },
+    {
+        "id": "7562aa315161098537e2c669",
+        "type": "stop",
+        "message": "Juan Carlos terminó la actividad \"Haz algo\".",
+        "activityTitle": "Haz algo",
+        "worker": "Juan Carlos",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 19:17:15",
+        "createdAtUnix": 1790097435
+    },
+    {
+        "id": "b8205f326abc5ffe9593e4af",
+        "type": "start",
+        "message": "María inició la actividad \"Archivar los antiguos documentos\".",
+        "activityTitle": "Archivar los antiguos documentos",
+        "worker": "María",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 20:57:28",
+        "createdAtUnix": 1790103448
+    },
+    {
+        "id": "bfe1ba3fb28e76dd15ad1abb",
+        "type": "pause",
+        "message": "María pausó la actividad \"Archivar los antiguos documentos\".",
+        "activityTitle": "Archivar los antiguos documentos",
+        "worker": "María",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-22 20:57:52",
+        "createdAtUnix": 1790103472
+    },
+    {
+        "id": "fbe4be5092aa0d8999fe2307",
+        "type": "assignment",
+        "recipient": "Gabriel",
+        "message": "Se te asignó la actividad \"Reunión\".",
+        "activityTitle": "Reunión",
+        "worker": "Gabriel",
+        "createdAt": "2026-09-23 19:01:20",
+        "createdAtUnix": 1790182880
+    },
+    {
+        "id": "92665b720428b7896dbbb541",
+        "type": "assignment",
+        "recipient": "María",
+        "message": "Se te asignó la actividad \"Reunión\".",
+        "activityTitle": "Reunión",
+        "worker": "María",
+        "createdAt": "2026-09-23 19:01:20",
+        "createdAtUnix": 1790182880
+    },
+    {
+        "id": "c1c5750c6ace639a15934ab2",
+        "type": "start",
+        "message": "Gabriel inició la actividad \"Reunión\".",
+        "activityTitle": "Reunión",
+        "worker": "Gabriel",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-23 19:03:18",
+        "createdAtUnix": 1790182998
+    },
+    {
+        "id": "7b727d165c810b32918f9ddf",
+        "type": "pause",
+        "message": "Gabriel pausó la actividad \"Reunión\".",
+        "activityTitle": "Reunión",
+        "worker": "Gabriel",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-23 19:03:27",
+        "createdAtUnix": 1790183007
+    },
+    {
+        "id": "fc15e8076236cb92aeb05fd0",
+        "type": "stop",
+        "message": "Gabriel terminó la actividad \"Reunión\".",
+        "activityTitle": "Reunión",
+        "worker": "Gabriel",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-23 19:03:31",
+        "createdAtUnix": 1790183011
+    },
+    {
+        "id": "32272a955e2792ef1f7c91d9",
+        "type": "resume",
+        "message": "María inició la actividad \"Archivar los antiguos documentos\".",
+        "activityTitle": "Archivar los antiguos documentos",
+        "worker": "María",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-23 19:04:16",
+        "createdAtUnix": 1790183056
+    },
+    {
+        "id": "f9aab9a2bb786dc0fcae2e3d",
+        "type": "stop",
+        "message": "María terminó la actividad \"Archivar los antiguos documentos\".",
+        "activityTitle": "Archivar los antiguos documentos",
+        "worker": "María",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-23 19:04:40",
+        "createdAtUnix": 1790183080
+    },
+    {
+        "id": "111208e02c8cbfce2a6495c4",
+        "type": "start",
+        "message": "Pedro inició la actividad \"Limpiar\".",
+        "activityTitle": "Limpiar",
+        "worker": "Pedro",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-23 19:36:38",
+        "createdAtUnix": 1790184998
+    },
+    {
+        "id": "16cddceb7a8175466fb3ba43",
+        "type": "pause",
+        "message": "Pedro pausó la actividad \"Limpiar\".",
+        "activityTitle": "Limpiar",
+        "worker": "Pedro",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-23 21:55:29",
+        "createdAtUnix": 1790193329
+    },
+    {
+        "id": "e8f9fc7e32683021cec5452c",
+        "type": "stop",
+        "message": "Pedro terminó la actividad \"Limpiar\".",
+        "activityTitle": "Limpiar",
+        "worker": "Pedro",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-23 21:56:37",
+        "createdAtUnix": 1790193397
+    },
+    {
+        "id": "2085c8acae2a90f71f784330",
+        "type": "start",
+        "message": "María inició la actividad \"Reunión\".",
+        "activityTitle": "Reunión",
+        "worker": "María",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-25 19:15:43",
+        "createdAtUnix": 1790356543
+    },
+    {
+        "id": "496825edee5dc79363ad2b61",
+        "type": "assignment",
+        "recipient": "Gabriel",
+        "message": "Se te asignó la actividad \"asdas\".",
+        "activityTitle": "asdas",
+        "worker": "Gabriel",
+        "createdAt": "2026-09-25 20:54:46",
+        "createdAtUnix": 1790362486
+    },
+    {
+        "id": "dc2b2e5276cb2de5f1619c56",
+        "type": "start",
+        "message": "Gabriel inició la actividad \"asdas\".",
+        "activityTitle": "asdas",
+        "worker": "Gabriel",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-25 20:55:00",
+        "createdAtUnix": 1790362500
+    },
+    {
+        "id": "a4c8cfabd05174d997c10e15",
+        "type": "stop",
+        "message": "Gabriel terminó la actividad \"asdas\".",
+        "activityTitle": "asdas",
+        "worker": "Gabriel",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-25 21:02:17",
+        "createdAtUnix": 1790362937
+    },
+    {
+        "id": "4611475ff470d0d0fd72c9c8",
+        "type": "stop",
+        "message": "María terminó la actividad \"Reunión\".",
+        "activityTitle": "Reunión",
+        "worker": "María",
+        "recipientRoles": [
+            "lider",
+            "jefe"
+        ],
+        "createdAt": "2026-09-29 19:10:00",
+        "createdAtUnix": 1790701800
+    }
+]
